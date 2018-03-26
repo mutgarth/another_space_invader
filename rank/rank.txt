@@ -1,0 +1,3 @@
+Player: Lucas Vitorioso Points: 53
+Player: Lucas Perdedor Points: 16
+Player:  Lucas Vitorioso2 Points: 52
